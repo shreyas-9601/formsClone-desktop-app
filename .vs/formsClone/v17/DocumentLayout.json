@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\source\\repos\\formsClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\newsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\newsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\formsclone.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\formsclone.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\formsclone.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\formsclone.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\newsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\newsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|c:\\users\\shrey\\source\\repos\\formsclone\\formsclone\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F3858D7E-6C84-4A74-8068-D5F89412FD41}|formsClone\\formsClone.vbproj|solutionrelative:formsclone\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\NewSubmissionForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\NewSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\NewSubmissionForm.vb",
+              "RelativeToolTip": "formsClone\\NewSubmissionForm.vb",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:44:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "formsClone\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:16:25.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formsClone",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\formsClone.vbproj",
+              "RelativeDocumentMoniker": "formsClone\\formsClone.vbproj",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\formsClone.vbproj",
+              "RelativeToolTip": "formsClone\\formsClone.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-21T03:54:51.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\NewSubmissionForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\NewSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\NewSubmissionForm.vb [Design]",
+              "RelativeToolTip": "formsClone\\NewSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:21:17.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formsClone",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\formsClone.vbproj",
+              "RelativeDocumentMoniker": "formsClone\\formsClone.vbproj",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\formsClone.vbproj",
+              "RelativeToolTip": "formsClone\\formsClone.vbproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-21T14:23:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "formsClone\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:19:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\Submission.vb",
+              "RelativeDocumentMoniker": "formsClone\\Submission.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\Submission.vb",
+              "RelativeToolTip": "formsClone\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T14:14:41.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\MainForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\MainForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\MainForm.vb",
+              "RelativeToolTip": "formsClone\\MainForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T04:09:38.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Submission.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\Submission.vb",
+              "RelativeDocumentMoniker": "formsClone\\Submission.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\Submission.vb [Design]",
+              "RelativeToolTip": "formsClone\\Submission.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T14:14:03.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\MainForm.vb",
+              "RelativeDocumentMoniker": "formsClone\\MainForm.vb",
+              "ToolTip": "C:\\Users\\shrey\\source\\repos\\formsClone\\formsClone\\MainForm.vb [Design]",
+              "RelativeToolTip": "formsClone\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T03:52:06.348Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
